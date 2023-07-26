@@ -15,7 +15,7 @@
 - name: Interpretable neural networks for the analysis of brain functions
   descr: „Diese Maßnahme wird mit Mitteln der Europäischen Union kofinanziert und durch Steuermittel auf Grundlage des vom Sächsischen Landtags beschlossenen Haushaltes mitfinanziert.“
   demo: https://tu-dresden.de/
-  image: yes
+  image: "ok"
   tags:
     - tag: Deep Learning
     - tag: Software Engineering
