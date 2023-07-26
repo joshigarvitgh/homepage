@@ -14,23 +14,23 @@
 - name: Scrum
   weight: 3
 
-- name: Travis CI
+- name: Gitlab CI/CD
   weight: 1
 
 - name: Jenkins
   weight: 1
 
-- name: Chrome DevTools
+- name: Pytorch
   weight: 2
 
-- name: npm
+- name: Tensorflow
   weight: 2
 
-- name: gulp
+- name: CUDA HPC
   weight: 4
 
 - name: VS Code
   weight: 3
 
-- name: Postman
+- name: Freesurfer/SPM
   weight: 4

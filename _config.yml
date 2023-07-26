@@ -14,7 +14,7 @@ baseurl: ""
 username: Garvit Joshi
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: PhD. Student
+typing_text: Doctorate Student
 # email: Your E-Mail address for the email button.
 email: garvit.joshi@tu-dresden.de
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am interested in using explainable artificial intelligence (AI) to create more interpretable networks that can be interpreted using logic-based methods. During my studies, I have worked on graph neural networks and convolutional neural networks. I am interested in using various logic-based methods for generalized AI. I am also interested in various image-based analyses, CI/CD, knowledge graphs and ontology engineering. Since I have an engineering bachelor's, I occasionally work on system administration and Raspberry PI. 
+about_me_description: "I am interested in using explainable artificial intelligence (AI) to create more interpretable networks that can be interpreted using logic-based methods. During my studies, I have worked on graph neural networks and convolutional neural networks. I am interested in using various logic-based methods for generalized AI. I am also interested in various image-based analyses, CI/CD, knowledge graphs and ontology engineering. Since I have an engineering bachelor's, I occasionally work on system administration and Raspberry PI. "
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1KT_ezOEZA97CtAtCPw258SR2SSJ-pmBL/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: „Diese Maßnahme wird mit Mitteln der Europäischen Union kofinanziert und durch Steuermittel auf Grundlage des vom Sächsischen Landtags beschlossenen Haushaltes mitfinanziert.“
+contact_description: "Feel free to contact me via email or any of the social media platforms. or visit mty office at TU Dresden. visit my <a href="https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn/people/garvit_joshi">page</a> for more details."
 
 # GITHUB-METADATA
 # Set this to your forked repository
