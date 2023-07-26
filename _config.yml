@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: "Feel free to contact me via email or any of the social media platforms. or visit mty office at TU Dresden. visit my <a href="https://tu-dresden.de/bereichsuebergreifendes/nic/research/grps_med/sesyn/people/garvit_joshi">page</a> for more details."
+contact_description: "Feel free to contact me via email or any of the social media platforms. or visit mty office at TU Dresden."
 
 # GITHUB-METADATA
 # Set this to your forked repository
